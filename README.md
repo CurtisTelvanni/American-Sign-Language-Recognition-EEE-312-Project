@@ -6,7 +6,7 @@ There is a folder for datasets.
 
 There are Two Codes for Google Colab.
 
-Training and Live Stream Codes are standalone versions in Google Colab, you can run these code on their own, just follow their instructions.
+Training and Live Stream Codes are standalone versions in Google Colab, you can run these codes on their own, just follow their instructions.
 
 All necessary files are uploaded in google drive with public access.
 
