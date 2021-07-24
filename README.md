@@ -8,6 +8,10 @@ There are Two Codes for Google Colab.
 
 Training and Live Stream Codes are standalone versions in Google Colab, you can run these codes on their own, just follow their instructions.
 
+The Training Code is used for training the model with the provided datasets.
+
+The Live Detection Code is used for testing sign language detection and the accuracy of the trained model.
+
 All necessary files are uploaded in google drive with public access.
 
 1. Dataset Pictures Folder: https://drive.google.com/drive/folders/1yqFp-_nITNoepTeGPSoMOzGA1lB1E6GC?usp=sharing
